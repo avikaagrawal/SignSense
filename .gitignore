@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Training datasets and generated data
+dataset/
+data/
+
+# Large trained models
+saved_models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+tools/WLASL/
